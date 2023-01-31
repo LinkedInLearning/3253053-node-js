@@ -1,0 +1,16 @@
+{
+  "name": "04_03",
+  "version": "1.0.0",
+  "description": "- Aller sur le site: https://api.nasa.gov/\r - Choisissez le menu: Generate API Key\r - Remplisser vos coordonnées pour les recevoir",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {}
+}

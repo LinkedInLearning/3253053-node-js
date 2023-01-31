@@ -1,0 +1,48 @@
+[
+    {
+        "copyright": "Polar Image",
+        "date": "2004-03-21",
+        "explanation": "Many think it is just a myth.  Others think it is true but its cause isn't known.  Adventurers pride themselves on having seen it.  It's a green flash from the Sun.  The truth is the green flash does exist and its cause is well understood.  Just as the setting Sun disappears completely from view, a last glimmer appears startlingly green.  The effect is typically visible only from locations with a low, distant horizon, and lasts just a few seconds.  A green flash is also visible for a rising Sun, but takes better timing to spot.  A dramatic green flash was caught in the above photograph in 1992 from Finland. The Sun itself does not turn partly green, the effect is caused by layers of the Earth's atmosphere acting like a prism.",
+        "hdurl": "https://apod.nasa.gov/apod/image/0211/greenflash_parviainen_big.gif",
+        "media_type": "image",
+        "service_version": "v1",
+        "title": "A Green Flash from the Sun",
+        "url": "https://apod.nasa.gov/apod/image/0211/greenflash_parviainen.jpg"
+    },
+    {
+        "date": "2008-01-31",
+        "explanation": "Dusty stellar nursery RCW 49 surrounds young star cluster Westerlund 2 in this remarkable composite skyscape from beyond the visible spectrum of light. Infrared data from the Spitzer Space Telescope is shown in black and white, complimenting the Chandra X-ray image data (in false color) of the hot energetic stars within the cluster's central region. Looking toward the grand southern constellation Centaurus, both views reveal stars and structures hidden from optical telescopes by obscuring dust. Westerlund 2 itself is a mere 2 million years old or less, and contains some of our galaxy's most luminous, massive and therefore short-lived stars. The infrared signatures of proto-planetary disks have also been identified in the intense star forming region. At the cluster's estimated distance of 20,000 light-years, the square marking the Chandra field of view would be about 50 light-years on a side.",
+        "hdurl": "https://apod.nasa.gov/apod/image/0801/wd2_xrayir.jpg",
+        "media_type": "image",
+        "service_version": "v1",
+        "title": "Young Star Cluster Westerlund 2",
+        "url": "https://apod.nasa.gov/apod/image/0801/wd2_xrayir_c790.jpg"
+    },
+    {
+        "date": "2011-09-08",
+        "explanation": "This view of the Apollo 17 landing site in the Taurus-Littrow valley was captured last month by the Lunar Reconnaissance Orbiter (LRO), the sharpest ever recorded from space. The high resolution image data was taken during a period when LRO's orbit was modified to create a close approach of about 22 kilometers as it passed over some of the Apollo landing sites. That altitude corresponds to only about twice the height of a commercial airline flight over planet Earth. Labeled in this image are Apollo 17 lunar lander Challenger's descent stage (inset), the lunar rover (LRV) at its final parking spot, and the Apollo Lunar Surface Experiments Package (ALSEP) left to monitor the Moon's environment and interior. Clear, dual lunar rover tracks and the foot trails left by astronauts Eugene Cernan and Harrison Schmitt, the last to walk on the lunar surface, are also easily visible at the Apollo 17 site.",
+        "hdurl": "https://apod.nasa.gov/apod/image/1109/apollo17area1_lro.jpg",
+        "media_type": "image",
+        "service_version": "v1",
+        "title": "Apollo 17 Site: A Sharper View",
+        "url": "https://apod.nasa.gov/apod/image/1109/apollo17area1_lro900.jpg"
+    },
+    {
+        "date": "2020-08-29",
+        "explanation": "Deep shadows create dramatic contrasts between light and dark in this high-resolution close-up of the martian surface. Recorded on January 24, 2014 by the HiRISE camera on board the Mars Reconnaissance Orbiter, the scene spans about 1.5 kilometers. From 250 kilometers above the Red Planet the camera is looking down at a sand dune field in a southern highlands crater. Captured when the Sun was about 5 degrees above the local horizon, only the dune crests were caught in full sunlight. A long, cold winter was coming to the southern hemisphere and bright ridges of seasonal frost line the martian dunes.  The Mars Reconnaissance Orbiter, one of the oldest operating spacecraft at the Red Planet, celebrated the 15th anniversary of its launch from planet Earth on August 12.",
+        "hdurl": "https://apod.nasa.gov/apod/image/2008/marsHirise_ESP_035143_1325.jpg",
+        "media_type": "image",
+        "service_version": "v1",
+        "title": "Martian Chiaroscuro",
+        "url": "https://apod.nasa.gov/apod/image/2008/marsHirise_ESP_035143_1325_1096.jpg"
+    },
+    {
+        "date": "1997-09-18",
+        "explanation": "On August 27th twisting magnetic fields propelled this huge eruptive prominence a hundred thousand miles above the Sun's surface. The seething plasma of ionized gases is at a temperature of about 150,000 degrees Farenheit and spans over 200,000 miles (about 27 Earths). The Extreme ultraviolet Imaging Telescope (EIT) onboard the space-based SOHO observatory recorded this exquisitely detailed image in the light of ionized Helium atoms from its vantage point in a Halo orbit. This is the largest solar prominence observed by SOHO instruments since they began exploring solar phenomena in early 1996.",
+        "hdurl": "https://apod.nasa.gov/apod/image/9709/solprom1_eit_big.jpg",
+        "media_type": "image",
+        "service_version": "v1",
+        "title": "Erupting Sun",
+        "url": "https://apod.nasa.gov/apod/image/9709/solprom1_eit.jpg"
+    }
+]
